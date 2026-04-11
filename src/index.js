@@ -5,4 +5,4 @@ for (let i = 1; i <= 12; i++) {
   sumVolume += (4 / 3) * Math.PI * radius ** 3;
 }
 
-console.log(`Сумма об'єму куль: ${sumVolume} м³`);
+console.log(`Сумма об'єму куль: ${sumVolume} м^2`);
